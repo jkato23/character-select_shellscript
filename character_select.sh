@@ -1,3 +1,4 @@
+#!/bin/bash
 function character_selection(){
     while true
     do    
